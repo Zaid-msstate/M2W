@@ -1,21 +1,18 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import './components/m2w'
 
 function main () {
   return (
     <div className="Menu">
-      <header className="Nav_bar">
-        <p>Main</p>
-        <p>Sign-In</p>
-        <p>About</p>
-        <p>Contact</p>
-      </header>
+      render(m2w)
     </div>
   )
 };
 export default main;
+
+
 
 
 // function App1() {
