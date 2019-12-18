@@ -17,3 +17,17 @@ ____________________________________________________________
 ### 'understanding React Components'
 - This link has an explaination of how to create 'React Components'
 https://medium.com/the-andela-way/understanding-react-components-37f841c1f3bb
+
+_______________________________________________________________
+### Resources and Learning:
+- React:
+  Learn React JS - Full Course for Beginners - Tutorial 2019
+  https://www.youtube.com/watch?v=DLX62G4lc44
+
+- html:
+  all input types in html such as <input type="button">
+  https://www.w3schools.com/html/html_form_input_types.asp
+
+- CSS
+  all css properties e.g  h1{property:value; }
+  https://www.w3schools.com/cssref/
