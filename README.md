@@ -23,6 +23,8 @@ _______________________________________________________________
 - React:
   Learn React JS - Full Course for Beginners - Tutorial 2019
   https://www.youtube.com/watch?v=DLX62G4lc44
+  #scrimba platform 
+  - https://scrimba.com/p/p7P5Hd/cPLv2cZ
 
 - html:
   all input types in html such as <input type="button">
