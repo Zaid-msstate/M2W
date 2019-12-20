@@ -25,6 +25,8 @@ _______________________________________________________________
   https://www.youtube.com/watch?v=DLX62G4lc44
   #scrimba platform 
   - https://scrimba.com/p/p7P5Hd/cPLv2cZ
+  -- React Lifecycle Methods-how and when to use them:
+        https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 
 - html:
   all input types in html such as <input type="button">
