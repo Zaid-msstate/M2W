@@ -36,3 +36,14 @@ _______________________________________________________________
 - CSS
   all css properties e.g  h1{property:value; }
   https://www.w3schools.com/cssref/
+-------------------------
+# Backend (firebase)
+Firebase:
+- create firebase project (console.firebase.com)
+- install firease tools 
+  npm install -g firebase-tools 
+-  sing into firevase account
+-  create a function folder
+- $firebase init
+-  
+- 
